@@ -1,0 +1,7 @@
+.idea
+output.zip
+uploaded.db
+config.py
+deploy.sh
+credentials
+client_secret.json

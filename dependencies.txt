@@ -1,0 +1,4 @@
+httplib2
+google-api-python-client
+tvdb_api
+sqlite3
